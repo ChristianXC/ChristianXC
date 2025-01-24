@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/christian-cox-495a02341/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/christian-x-cox/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
